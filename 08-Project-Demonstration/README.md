@@ -26,6 +26,9 @@ The demonstration phase presents the completed ComicCraft application and explai
 * Comic preview
 * PDF export
 
+###Demo video 
+https://drive.google.com/file/d/1k1MwQzZBwX1gY8U8053gM7ho7SVfIvn2/view?usp=drivesdk
+
 ### Expected Outcome
 
 The demonstration shows how ComicCraft transforms a simple user idea into an AI-generated comic story with illustrations and downloadable output.
