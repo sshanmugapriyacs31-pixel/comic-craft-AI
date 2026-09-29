@@ -26,7 +26,7 @@ The demonstration phase presents the completed ComicCraft application and explai
 * Comic preview
 * PDF export
 
-**###Demo video**
+**Demo video**
 https://drive.google.com/file/d/1k1MwQzZBwX1gY8U8053gM7ho7SVfIvn2/view?usp=drivesdk
 
 ### Expected Outcome
