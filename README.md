@@ -1,1 +1,0 @@
-# comic-craft-AI
